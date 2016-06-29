@@ -8,6 +8,12 @@ namespace Olimp
 {
     class Program
     {
+        /*
+        string[] tokens = 
+					Console.In.ReadToEnd().Split(
+						new char[] {' ', '\t', '\n', '\r'},
+						StringSplitOptions.RemoveEmptyEntries);
+            */
         static void Main(string[] args)
         {
         }
