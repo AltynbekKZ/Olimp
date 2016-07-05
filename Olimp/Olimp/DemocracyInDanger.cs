@@ -6,15 +6,9 @@ using System.Threading.Tasks;
 
 namespace Olimp
 {
-    class Program
+    public class DemocracyInDanger
     {
-        /*
-        string[] tokens = 
-					Console.In.ReadToEnd().Split(
-						new char[] {' ', '\t', '\n', '\r'},
-						StringSplitOptions.RemoveEmptyEntries);
-            */
-        static void Main()
+        static void Main1()
         {
             string[] tokens = //new[] {"3","5", "7", "5" };
                    Console.In.ReadToEnd().Split(
